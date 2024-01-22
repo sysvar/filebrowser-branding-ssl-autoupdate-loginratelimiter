@@ -1,5 +1,7 @@
 # filebrowser-branding-ssl-autoupdate-loginratelimiter
 
+![Example](example.png)
+
 # filebrowser.org
 https://github.com/filebrowser/filebrowse
  - Custom Branding
