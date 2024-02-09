@@ -250,33 +250,38 @@ services:
 EOT
 ```
 
+**9. General - Start the Stack**
+```
+/opt/filebrowser/start.sh
+```
 
 ## GUI Part
-**9. Login to the GUI _(admin:admin)_ and change the default password immediately**
+**10. Login to the GUI _(admin:admin)_ and change the default password immediately**
+ - `https://<IP>:8082`
 
-**10. Click Settings > Profile Settings**
+**11. Click Settings > Profile Settings**
  - Change your password from admin/admin
 
-**11. Click Settings > Global Settings**
+**12. Click Settings > Global Settings**
  - Instance Name = Custom Name
  - Branding directory path = /branding
 
-**12. Logout and reload login screen (CTRL + F5)**
+**13. Logout and reload login screen (CTRL + F5)**
 
 
 ## Media Part
-**13. Background Location + Configure CSS `#login` with `background-image: url("./img/background.jpg");`**
+**14. Background Location + Configure CSS `#login` with `background-image: url("./img/background.jpg");`**
 
 `./filebrowser/app/filebrowser/branding/img/background.jpg`
 
-**14. Logo Location ([SVG Format](https://www.google.com/search?q=png+to+svg))**
+**15. Logo Location ([SVG Format](https://www.google.com/search?q=png+to+svg))**
 
 `./filebrowser/app/filebrowser/branding/img/logo.svg`
 
-**15. Favicons Location ([Generation](https://realfavicongenerator.net/))**
+**16. Favicons Location ([Generation](https://realfavicongenerator.net/))**
 
 `./filebrowser/app/filebrowser/branding/img/icons/`
 
-**16. Logout and reload login screen (CTRL + F5)**
+**17. Logout and reload login screen (CTRL + F5)**
 
 Done :)
