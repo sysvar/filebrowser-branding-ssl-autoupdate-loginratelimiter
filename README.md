@@ -3,7 +3,7 @@
 ![Example](example.png)
 
 # filebrowser.org
-https://github.com/filebrowser/filebrowse
+https://github.com/filebrowser/filebrowser
  - Custom Branding
  - Nginx Self Signed SSL Certificate
  - Watchtower Auto Updating
